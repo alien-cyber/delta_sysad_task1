@@ -3,4 +3,4 @@ Completed sysad task 1 in normal mode
 and the text file contains some data in the format suitable for working with this aliases
 
 
-for userGen alias mentee and mentor details sjould ne given by the user
+for userGen alias mentee and mentor details should be given by the user
