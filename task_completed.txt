@@ -1,0 +1,12 @@
+SysAd:
+    Task1: y
+    Task2: y
+    Task3: y
+Web:
+    Task1: y
+    Task2: n 
+    Task3: n
+App:
+    Task1: n
+    Task2: n
+    Task3: n

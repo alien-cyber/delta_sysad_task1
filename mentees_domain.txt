@@ -1,0 +1,7 @@
+ROLLNO : NAME : DOMAIN
+10222074 : Olivia : web
+10232199 : Liam : sysad
+10242008 : Emma : app
+10252081 : Noah : app,web
+10262046 : Ava :  web,sysad
+10272133 : Elijah : sysad,app,web
